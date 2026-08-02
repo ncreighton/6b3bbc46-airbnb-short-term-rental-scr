@@ -28,8 +28,6 @@ Privacy-first: all processing stays local, no data sent to third-party servers. 
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://cleargum.gumroad.com/l/qslkuo)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/dRm3cveTtf6Qg88dI0cZF3n)** — Secure checkout
 
 ## Installation
@@ -41,7 +39,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://cleargum.gumroad.com/l/qslkuo)
 
 ## License
 
